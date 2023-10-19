@@ -1,4 +1,4 @@
-# Logistic_regression
+# Logistic regression Project
 #### Problem Description
 Use sklearn.datasets iris flower dataset to train your model using logistic regression. You need
 to figure out the accuracy of your model and use that to predict different samples in your test
