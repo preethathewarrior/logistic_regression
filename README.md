@@ -7,6 +7,7 @@ dataset. In iris dataset there are 150 samples containing following features,
 2. Sepal Width
 3. Petal length
 4. Petal width
+   
 Using above 4 features you will classify a flower in one of the three categories,
 1. Setosa
 2. Versicolour
